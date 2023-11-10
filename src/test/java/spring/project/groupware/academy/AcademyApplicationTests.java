@@ -45,6 +45,7 @@ class AcademyApplicationTests {
 
 	@Autowired
 	private StudentService studentService;
+
 	@Autowired
 	private StudentRepository studentRepository;
 
