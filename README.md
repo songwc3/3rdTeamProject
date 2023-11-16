@@ -24,7 +24,7 @@
 
 <br/>
 
-[3차_팀프로젝트 PDF](https://drive.google.com/file/d/1Thv10y746kVdVGdb53xv5p9Z5t5NTHwT/view?usp=share_link)
+[3차_팀프로젝트 PDF](https://drive.google.com/file/d/1o4TLA30RmHTPCziJtc5LRjvprAtw_mik/view?usp=sharing)
 
 ![메인페이지](https://github.com/songwc3/2ndTeamProject/assets/133622405/9a500246-060b-4d50-8915-92b67b1a9f8d)
 </details>
@@ -2019,7 +2019,7 @@ public class WeatherChatbotService {
 
 <br/>
 
-[3차_팀프로젝트 PDF](https://drive.google.com/file/d/1Thv10y746kVdVGdb53xv5p9Z5t5NTHwT/view?usp=share_link)
+[3차_팀프로젝트 PDF](https://drive.google.com/file/d/1o4TLA30RmHTPCziJtc5LRjvprAtw_mik/view?usp=sharing)
 </details>
 
 <br/>
