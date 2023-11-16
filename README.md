@@ -24,7 +24,7 @@
 
 <br/>
 
-[★3차 ppt pdf 파일 넣기](https://drive.google.com/file/d/1Thv10y746kVdVGdb53xv5p9Z5t5NTHwT/view?usp=share_link)
+[3차_팀프로젝트 PDF](https://drive.google.com/file/d/1Thv10y746kVdVGdb53xv5p9Z5t5NTHwT/view?usp=share_link)
 
 ![메인페이지](https://github.com/songwc3/2ndTeamProject/assets/133622405/9a500246-060b-4d50-8915-92b67b1a9f8d)
 </details>
@@ -2019,7 +2019,7 @@ public class WeatherChatbotService {
 
 <br/>
 
-[★3차 ppt pdf 파일 넣기](https://drive.google.com/file/d/1Thv10y746kVdVGdb53xv5p9Z5t5NTHwT/view?usp=share_link)
+[3차_팀프로젝트 PDF](https://drive.google.com/file/d/1Thv10y746kVdVGdb53xv5p9Z5t5NTHwT/view?usp=share_link)
 </details>
 
 <br/>
